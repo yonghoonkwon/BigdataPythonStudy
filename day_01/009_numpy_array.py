@@ -40,6 +40,10 @@ print (c) # [[7 7], [7 7]]
 
 d = np.eye(2)
 print (d)
+'''
+[[1. 0.]
+ [0. 1.]]
+'''
 
 e = np.random.random((2, 2))
 print (e)
