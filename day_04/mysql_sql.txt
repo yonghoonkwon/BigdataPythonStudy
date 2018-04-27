@@ -1,0 +1,3 @@
+create database test;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
+FLUSH PRIVILEGES;
